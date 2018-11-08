@@ -1,0 +1,21 @@
+{
+	"name": "hyper-cobalt2-alt-theme",
+	"version": "1.0.0",
+	"description": "An alternative Cobalt2 Theme for Hyper terminal",
+	"main": "index.js",
+	"scripts": {
+	  "test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+	  "hyper",
+	  "hyper.js",
+	  "theme",
+	  "color scheme"
+	],
+	"author": "Prnaey Behl <praneybehl@gmail.com>",
+	"repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/praneybehl/hyper-cobalt2-alt-theme.git"
+	},
+	"license": "MIT"
+  }
