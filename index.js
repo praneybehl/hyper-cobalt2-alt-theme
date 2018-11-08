@@ -17,7 +17,7 @@ const lightCyan = '#00ffff';
 const lightWhite = '#ffffff';
 
 // custom colours
-const cobalt2blue = '#193549';
+const cobalt2blue = '#16293b';
 const variableBlue = '#0d3a58';
 const dustyBlue = '#34424C';
 const highlightBlue = '#1F4662';
